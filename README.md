@@ -26,6 +26,7 @@ Se utilizó una metodología ágil para el desarrollo del proyecto, permitiendo 
 ![image](https://github.com/user-attachments/assets/86087b65-9347-467f-9758-84030990fb2e)
 
 
+
 ## Encuesta de Levantamiento de Información
 
 **Descripción del proceso:**  
@@ -58,11 +59,15 @@ El sitio web está estructurado en las siguientes secciones principales:
 ## Paleta de Colores
 ![image](https://github.com/user-attachments/assets/5f5df5bd-f5bb-48cd-8dab-996b764b8190)
 
+
+
 ## Tipografía
 
 - **Títulos:** Inter  
 - **Subtítulos:** Jacúes Francois
   ![image](https://github.com/user-attachments/assets/140ebe85-ecf1-4c64-b6e9-95e57017e9c1)
+
+
 
 
 ## Prototipos Desarrollados
@@ -78,11 +83,14 @@ Se desarrollaron prototipos de alta fidelidad utilizando herramientas de diseño
 - **Iconos:** Más de 5 iconos.
 ![image](https://github.com/user-attachments/assets/f73493c3-c583-477f-9397-e554b7045d92)
 
+
+
 ## Buenas Prácticas de Diseño
 
 **Principios aplicados:**
 - **Diseño Responsivo:** El sitio fue diseñado para ser accesible desde cualquier dispositivo.
   ![image](https://github.com/user-attachments/assets/95330965-947e-4253-926e-2a03cf689edd)
+  
   ![image](https://github.com/user-attachments/assets/0340963e-7518-4528-bd72-7e0c97432af5)
 
 
@@ -90,6 +98,7 @@ Se desarrollaron prototipos de alta fidelidad utilizando herramientas de diseño
 
 - **Nombres Significativos:** Se utilizaron nombres descriptivos para las clases y los ID en CSS y HTML.
   ![image](https://github.com/user-attachments/assets/82f01646-5d6f-4ee1-af55-31d67a586f80)
+
 
 
 ## Estructura de Carpetas y Archivos
@@ -101,12 +110,15 @@ Se desarrollaron prototipos de alta fidelidad utilizando herramientas de diseño
   ![image](https://github.com/user-attachments/assets/0304720e-7e85-456b-b425-4cae68dd5212)
 
 
+
 ## Publicación del Sitio Web
 ![image](https://github.com/user-attachments/assets/2ff14f4e-7c5c-49b7-90c1-af98b8d79a6e)
 
 
+
 **Enlace:**  
 [https://alvaro-coder0805.github.io/biogreen5/](https://alvaro-coder0805.github.io/biogreen5/)
+
 
 ## Conclusiones
 
